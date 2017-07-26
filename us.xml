@@ -112,18 +112,6 @@
 		<display-name>Crime &amp; Investigation Network HD</display-name>
 		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61469_h3_aa.png" width="360" height="270" />
 	</channel>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I202.10142.schedulesdirect.org">
-		<title lang="en">CNN Newsroom With John Berman and Poppy Harlow *</title>
-		<desc lang="en">CNN's daily news program brings viewers the latest headlines, stories, live reports, and breaking news from around the world. John Berman and Poppy Harlow anchor this hour.</desc>
-		<credits>
-			<presenter>Poppy Harlow</presenter>
-			<presenter>John Berman</presenter>
-		</credits>
-		<category lang="en">News</category>
-		<episode-num system="dd_progid">SH02615435.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
 	<programme start="20170726140000 +0000" stop="20170726150000 +0000" channel="I202.10142.schedulesdirect.org">
 		<title lang="en">CNN Newsroom With John Berman and Poppy Harlow *</title>
 		<desc lang="en">CNN's daily news program brings viewers the latest headlines, stories, live reports, and breaking news from around the world. John Berman and Poppy Harlow anchor this hour.</desc>
@@ -207,20 +195,18 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20170726100000 +0000" stop="20170726140000 +0000" channel="I221.59250.schedulesdirect.org">
-		<title lang="en">Boomer &amp; Carton *</title>
-		<desc lang="en">The popular morning drive program, simulcast from CBS Radio's WFAN studio in New York, features former NFL quarterback and longtime CBS football analyst Boomer Esiason and veteran radio host Craig Carton talking sports for four hours each weekday. The state of New York sports is certainly a main topic of conversation, but the duo also discuss national stories and conduct interviews with current and former sports icons, league personnel, and a variety of national celebrities from the entertainment and music industries.</desc>
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I202.10142.schedulesdirect.org">
+		<title lang="en">The Situation Room With Wolf Blitzer *</title>
+		<desc lang="en">Anchor Wolf Blitzer invites CNN correspondents, analysts and guests for timely coverage of the day's news events. Patterned after the concept of the White House Situation Room, the Monday-Saturday show is a discussion forum often with opposing sides debating current national affairs.</desc>
 		<credits>
-			<presenter>Boomer Esiason</presenter>
-			<presenter>Craig Carton</presenter>
+			<presenter>Wolf Blitzer</presenter>
 		</credits>
-		<category lang="en">Sports talk</category>
-		<episode-num system="dd_progid">SH01322914.0000</episode-num>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
+		<category lang="en">Talk</category>
+		<category lang="en">News</category>
+		<category lang="en">Interview</category>
+		<episode-num system="dd_progid">SH00765918.0000</episode-num>
 		<new />
+		<subtitles type="teletext" />
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726160000 +0000" channel="I221.59250.schedulesdirect.org">
 		<title lang="en">Baseball *</title>
@@ -280,32 +266,6 @@
 			<quality>HDTV</quality>
 		</video>
 		<new />
-	</programme>
-	<programme start="20170726133000 +0000" stop="20170726140000 +0000" channel="I232.30156.schedulesdirect.org">
-		<title lang="en">Junk Food Flip</title>
-		<sub-title lang="en">The Southern Comfort Flip</sub-title>
-		<desc lang="en">Owners of Roadside Seafood in Charleston, South Carolina, serve a succulent seafood sandwich known as the "Southern Comfort," which contains lobster mac and cheese, bacon and fried green tomatoes; Bobby and Nikki whip up a healthier version.</desc>
-		<credits>
-			<presenter>Bobby Deen</presenter>
-			<presenter>Nikki Dinki</presenter>
-		</credits>
-		<date>20150623</date>
-		<category lang="en">Cooking</category>
-		<category lang="en">Travel</category>
-		<length units="seconds">1260</length>
-		<episode-num system="dd_progid">EP01969817.0005</episode-num>
-		<episode-num system="xmltv_ns">0.3.</episode-num>
-		<previously-shown start="20150623000000" />
-		<subtitles type="teletext" />
-		<rating system="Australian Classification Board">
-			<value>G</value>
-		</rating>
-		<rating system="Canadian Parental Rating">
-			<value>G</value>
-		</rating>
-		<rating system="USA Parental Rating">
-			<value>TVG</value>
-		</rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726143000 +0000" channel="I232.30156.schedulesdirect.org">
 		<title lang="en">Food: Fact or Fiction?</title>
@@ -635,38 +595,28 @@
 			<value>TVG</value>
 		</rating>
 	</programme>
-	<programme start="20170726125900 +0000" stop="20170726140000 +0000" channel="I237.10057.schedulesdirect.org">
-		<title lang="en">The Real Housewives of Orange County</title>
-		<sub-title lang="en">The Not So Quiet Woman</sub-title>
-		<desc lang="en">Vicki struggles with trust issues as she sets up her new office; Peggy and her family deal with her upcoming surgery; Tamra resumes her role as the "Rodney King" of the OC; Shannon contends with her weight gain as well as her nemesis Kelly Dodd.</desc>
+	<programme start="20170726210000 +0000" stop="20170726213000 +0000" channel="I232.30156.schedulesdirect.org">
+		<title lang="en">Burgers, Brew &amp; 'Que</title>
+		<sub-title lang="en">Motor City's Mouthwatering Meats</sub-title>
+		<desc lang="en">Michael takes reality television star Kendra Wilkinson on a whirlwind food and beer tour of Detroit to introduce her to one of the country's most resurgent cities; enjoys microbrews, Coney Island dogs, spicy Korean sliders and pulled pork enchiladas.</desc>
 		<credits>
-			<actor>Vicki Gunvalson</actor>
-			<actor>Tamra Judge</actor>
-			<actor>Shannon Beador</actor>
-			<actor>Meghan King Edmonds</actor>
-			<actor>Kelly Dodd</actor>
-			<actor>Lydia McLaughlin</actor>
-			<actor>Peggy Sulahian</actor>
-			<producer>Scott Dunlop</producer>
-			<producer>Douglas Ross</producer>
-			<producer>Alex Baskin</producer>
-			<producer>Stephanie Boyriven</producer>
-			<producer>Adam Karpel</producer>
-			<producer>Andy Cohen</producer>
+			<presenter>Michael Symon</presenter>
 		</credits>
-		<date>20170724</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Entertainment</category>
-		<category lang="en">Drama</category>
-		<episode-num system="dd_progid">EP00815126.0326</episode-num>
-		<episode-num system="xmltv_ns">11.2.</episode-num>
-		<previously-shown start="20170724000000" />
+		<date>20161007</date>
+		<category lang="en">Cooking</category>
+		<category lang="en">Travel</category>
+		<episode-num system="dd_progid">EP02197931.0025</episode-num>
+		<episode-num system="xmltv_ns">2.5.</episode-num>
+		<previously-shown start="20161007000000" />
 		<subtitles type="teletext" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
 		<rating system="Canadian Parental Rating">
-			<value>14+</value>
+			<value>G</value>
 		</rating>
 		<rating system="USA Parental Rating">
-			<value>TV14</value>
+			<value>TVG</value>
 		</rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726143000 +0000" channel="I237.10057.schedulesdirect.org">
@@ -899,48 +849,30 @@
 			<value>TV14</value>
 		</rating>
 	</programme>
-	<programme start="20170726133100 +0000" stop="20170726140200 +0000" channel="I249.10149.schedulesdirect.org">
-		<title lang="en">Scrubs</title>
-		<sub-title lang="en">My Catalyst</sub-title>
-		<desc lang="en">An obsessive-compulsive surgeon (Michael J. Fox) manages to turn his disorder into a distinct advantage.</desc>
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I237.10057.schedulesdirect.org">
+		<title lang="en">The Real Housewives of New York City</title>
+		<sub-title lang="en">A Bronx Tale</sub-title>
+		<desc lang="en">Dorinda fights with Sonja while at lunch in the Bronx; Tinsley breaks down; despite the tension between Ramona and Bethenny, all of the women head to Vermont; Tinsley feels as though the others are ganging up on her in regards to her life decisions.</desc>
 		<credits>
-			<actor>Zach Braff</actor>
-			<actor>Sarah Chalke</actor>
-			<actor>Donald Faison</actor>
-			<actor>John C. McGinley</actor>
-			<actor>Judy Reyes</actor>
-			<actor>Ken Jenkins</actor>
-			<actor>Neil Flynn</actor>
-			<producer>Bill Lawrence</producer>
-			<guest>Michael J. Fox</guest>
-			<guest>Charles Rahi Chun</guest>
-			<guest>Johnny Kastl</guest>
-			<guest>Sam Lloyd</guest>
-			<guest>Robert Maschio</guest>
-			<guest>Christa Miller</guest>
-			<guest>Aloma Wright</guest>
-			<guest>Frank Encarnacao</guest>
-			<guest>Martin Klebba</guest>
-			<guest>John Maynard</guest>
+			<actor>Bethenny Frankel</actor>
+			<actor>Carole Radziwill</actor>
+			<actor>Dorinda Medley</actor>
+			<actor>LuAnn D'Agostino</actor>
+			<actor>Ramona Singer</actor>
+			<actor>Sonja Morgan</actor>
+			<actor>Tinsley Mortimer</actor>
+			<actor>Scott Dunlop</actor>
+			<producer>Scott Dunlop</producer>
 		</credits>
-		<date>20040210</date>
-		<category lang="en">Sitcom</category>
-		<length units="seconds">1620</length>
-		<episode-num system="dd_progid">EP00446160.0059</episode-num>
-		<episode-num system="xmltv_ns">2.11/22.</episode-num>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown start="20040210000000" />
+		<date>20170628</date>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP01030901.0236</episode-num>
+		<episode-num system="xmltv_ns">8.12.</episode-num>
+		<previously-shown start="20170628000000" />
 		<subtitles type="teletext" />
-		<rating system="Australian Classification Board">
-			<value>PG</value>
-		</rating>
 		<rating system="Canadian Parental Rating">
-			<value>PG</value>
-		</rating>
-		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-			<value>14</value>
+			<value>14+</value>
 		</rating>
 		<rating system="USA Parental Rating">
 			<value>TV14</value>
@@ -1723,39 +1655,62 @@
 			<value>2.5/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I257.55205.schedulesdirect.org">
-		<title lang="en">The Outer Limits</title>
-		<sub-title lang="en">Heart's Desire</sub-title>
-		<desc lang="en">An alien visitor gives four Old West outlaws the power to disintegrate their enemies. With Esai Morales.</desc>
+	<programme start="20170726210000 +0000" stop="20170727000000 +0000" channel="I254.10021.schedulesdirect.org">
+		<title lang="en">Tombstone</title>
+		<desc lang="en">Wyatt Earp (Kurt Russell) and his brothers, Morgan (Bill Paxton) and Virgil (Sam Elliott), have left their gunslinger ways behind them to settle down and start a business in the town of Tombstone, Ariz. While they aren't looking to find trouble, trouble soon finds them when they become targets of the ruthless Cowboy gang. Now, together with Wyatt's best friend, Doc Holliday (Val Kilmer), the brothers pick up their guns once more to restore order to a lawless land.</desc>
 		<credits>
-			<director>Mario Azzopardi</director>
-			<actor>Esai Morales</actor>
-			<actor>Casper Van Dien</actor>
-			<actor>Gary Basaraba</actor>
-			<actor>Jed Rees</actor>
-			<actor>David Longworth</actor>
-			<actor>Ocean Hellman</actor>
-			<writer>Alan Brennert</writer>
-			<producer>Pen Densham</producer>
-			<producer>Richard B. Lewis</producer>
-			<producer>John Watson</producer>
+			<director>George P. Cosmatos</director>
+			<actor>Kurt Russell</actor>
+			<actor>Val Kilmer</actor>
+			<actor>Michael Biehn</actor>
+			<actor>Powers Boothe</actor>
+			<actor>Robert Burke</actor>
+			<actor>Dana Delany</actor>
+			<actor>Sam Elliott</actor>
+			<actor>Stephen Lang</actor>
+			<actor>Terry O'Quinn</actor>
+			<actor>Joanna Pacula</actor>
+			<actor>Bill Paxton</actor>
+			<actor>Jason Priestley</actor>
+			<actor>Michael Rooker</actor>
+			<actor>Jon Tenney</actor>
+			<actor>Dana Wheeler-Nicholson</actor>
+			<actor>Billy Zane</actor>
+			<actor>Buck Taylor</actor>
+			<actor>Harry Carey Jr.</actor>
+			<actor>Pedro Armendáriz Jr.</actor>
+			<actor>Charlton Heston</actor>
+			<actor>Robert Mitchum</actor>
+			<actor>Billy Bob Thornton</actor>
+			<actor>Kevin Jarre</actor>
+			<actor>Bruce Broughton</actor>
+			<actor>William A. Fraker</actor>
+			<actor>Harvey Rosenstock</actor>
+			<actor>Roberto Silvi</actor>
+			<actor>Frank J. Urioste</actor>
+			<actor>Lora Kennedy</actor>
+			<actor>Catherine Hardwicke</actor>
+			<actor>Chris Goran</actor>
+			<actor>Kim Hix</actor>
+			<actor>Mark Worthington</actor>
+			<actor>Gene Serdena</actor>
+			<producer>Sean Daniel</producer>
+			<producer>James Jacks</producer>
+			<producer>Bob Misiorowski</producer>
+			<producer>Buzz Feitshans</producer>
+			<producer>Andrew G. Vajna</producer>
 		</credits>
-		<date>19970228</date>
-		<category lang="en">Anthology</category>
-		<category lang="en">Science fiction</category>
-		<length units="seconds">2700</length>
-		<episode-num system="dd_progid">EP00134071.0053</episode-num>
-		<episode-num system="xmltv_ns">2.7/18.</episode-num>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown start="19970228000000" />
+		<date>1993</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Western</category>
+		<length units="seconds">8040</length>
+		<episode-num system="dd_progid">MV00213973.0000</episode-num>
 		<subtitles type="teletext" />
-		<rating system="Canadian Parental Rating">
-			<value>14+</value>
-		</rating>
 		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-			<value>6</value>
+			<value>16</value>
+		</rating>
+		<rating system="Motion Picture Association of America">
+			<value>R</value>
 		</rating>
 		<rating system="USA Parental Rating">
 			<value>TV14</value>
@@ -1769,6 +1724,9 @@
 		<rating system="advisory">
 			<value>Violence</value>
 		</rating>
+		<star-rating>
+			<value>3/4</value>
+		</star-rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726150000 +0000" channel="I257.55205.schedulesdirect.org">
 		<title lang="en">The Outer Limits</title>
@@ -2087,46 +2045,45 @@
 			<value>Violence</value>
 		</rating>
 	</programme>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I264.18332.schedulesdirect.org">
-		<title lang="en">Doctor Who</title>
-		<sub-title lang="en">The Unicorn and the Wasp</sub-title>
-		<desc lang="en">Agatha Christie's 10-day disappearance in 1926 may have been the result of amnesia, a nervous breakdown, or a giant alien wasp.</desc>
+	<programme start="20170726210000 +0000" stop="20170726230000 +0000" channel="I257.55205.schedulesdirect.org">
+		<title lang="en">Steve Niles' Remains</title>
+		<desc lang="en">In a post-apocalyptic world overrun by zombies, two survivors (Grant Bowler, Evalena Marie) seek refuge inside a vacant casino.</desc>
 		<credits>
-			<director>Graeme Harper</director>
-			<actor>David Tennant</actor>
-			<actor>Catherine Tate</actor>
-			<writer>Gareth Roberts</writer>
-			<producer>Russell T. Davies</producer>
-			<producer>Julie Gardner</producer>
-			<guest>Fenella Woolgar</guest>
-			<guest>Felicity Kendal</guest>
-			<guest>Tom Goodman-Hill</guest>
-			<guest>Christopher Benjamin</guest>
-			<guest>Felicity Jones</guest>
-			<guest>Adam Rayner</guest>
-			<guest>David Quilter</guest>
-			<guest>Ian Barritt</guest>
-			<guest>Leena Dhingra</guest>
+			<director>Colin Theys</director>
+			<actor>Grant Bowler</actor>
+			<actor>Evalena Marie</actor>
+			<actor>Lance Reddick</actor>
+			<actor>Miko Hughes</actor>
+			<actor>Tawny Cypress</actor>
+			<actor>Anthony Marks</actor>
+			<actor>Jessica Alexandra Green</actor>
+			<actor>Kevin Shea</actor>
+			<actor>Matthew Llewellyn</actor>
+			<actor>Sarah Schachner</actor>
+			<actor>Adrian Correia</actor>
+			<actor>Melanie Gunn</actor>
+			<writer>John Doolan</writer>
+			<producer>Ted Adams</producer>
+			<producer>Bonnie Farley-Lucas</producer>
+			<producer>Richard J. Lucas</producer>
+			<producer>Steve Niles</producer>
+			<producer>Shane O'Brien</producer>
+			<producer>Justin Smith</producer>
+			<producer>Thomas P. Vitale</producer>
+			<producer>Andrew Gernhard</producer>
+			<producer>Zach O'Brien</producer>
 		</credits>
-		<date>20080517</date>
-		<category lang="en">Drama</category>
-		<category lang="en">Fantasy</category>
-		<category lang="en">Science fiction</category>
-		<episode-num system="dd_progid">EP00750178.0054</episode-num>
-		<episode-num system="xmltv_ns">3.6/13.</episode-num>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown start="20080517000000" />
+		<date>2011</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Horror</category>
+		<length units="seconds">5400</length>
+		<episode-num system="dd_progid">MV00377726.0000</episode-num>
 		<subtitles type="teletext" />
-		<rating system="Canadian Parental Rating">
-			<value>PG</value>
-		</rating>
-		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-			<value>10</value>
+		<rating system="British Board of Film Classification">
+			<value>15</value>
 		</rating>
 		<rating system="USA Parental Rating">
-			<value>TVPG</value>
+			<value>TV14</value>
 		</rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726150000 +0000" channel="I264.18332.schedulesdirect.org">
@@ -2432,33 +2389,6 @@
 			<stereo>stereo</stereo>
 		</audio>
 		<previously-shown start="19950904000000" />
-		<subtitles type="teletext" />
-		<rating system="Canadian Parental Rating">
-			<value>PG</value>
-		</rating>
-		<rating system="USA Parental Rating">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme start="20170726133000 +0000" stop="20170726140000 +0000" channel="I265.10035.schedulesdirect.org">
-		<title lang="en">Dog the Bounty Hunter</title>
-		<sub-title lang="en">Twisted Love</sub-title>
-		<desc lang="en">Dog and the team attempt to catch a woman accused of aggravated car theft by using her girlfriend as bait.</desc>
-		<credits>
-			<actor>Duane "Dog" Chapman</actor>
-		</credits>
-		<date>20070828</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Documentary</category>
-		<category lang="en">Crime</category>
-		<category lang="en">Law</category>
-		<length units="seconds">1320</length>
-		<episode-num system="dd_progid">EP00675082.0105</episode-num>
-		<episode-num system="xmltv_ns">3.18/44.</episode-num>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown start="20070828000000" />
 		<subtitles type="teletext" />
 		<rating system="Canadian Parental Rating">
 			<value>PG</value>
@@ -2961,25 +2891,40 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I282.16331.schedulesdirect.org">
-		<title lang="en">Bad Dog!</title>
-		<sub-title lang="en">Food Fiends</sub-title>
-		<desc lang="en">Cooper the Labrador loves ice cream so much that his hometown has a flavor named after him; half Westie/ half Corgi, Teddy gets stuck in soda cartons; Nora the cat is a piano playing internet sensation; Santos, the potty-mouthed rapping parrot.</desc>
-		<date>20140726</date>
-		<category lang="en">Animals</category>
-		<length units="seconds">2520</length>
-		<episode-num system="dd_progid">EP01312271.0015</episode-num>
-		<episode-num system="xmltv_ns">2.2/8.</episode-num>
+	<programme start="20170726210000 +0000" stop="20170726213000 +0000" channel="I265.10035.schedulesdirect.org">
+		<title lang="en">Storage Wars</title>
+		<sub-title lang="en">The Shrining</sub-title>
+		<desc lang="en">The buyers visit El Monte, Calif.; the Harris Brothers go into stealth mode; Jarrod and Brandi feel charitable; Darrell hopes a big pole will vault him to the top.</desc>
+		<credits>
+			<actor>Darrell Sheets</actor>
+			<actor>Jarrod Schulz</actor>
+			<actor>Brandi Passante</actor>
+			<actor>Barry Weiss</actor>
+			<actor>Dan Dotson</actor>
+			<actor>Laura Dotson</actor>
+			<producer>Thom Beers</producer>
+			<producer>Philip D. Segal</producer>
+			<producer>Robert Sharenow</producer>
+			<producer>Elaine Frontain Bryant</producer>
+			<presenter>Thom Beers</presenter>
+		</credits>
+		<date>20130514</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Auction</category>
+		<category lang="en">Collectibles</category>
+		<length units="seconds">1320</length>
+		<episode-num system="dd_progid">EP01341345.0096</episode-num>
+		<episode-num system="xmltv_ns">3.9/22.</episode-num>
 		<audio>
 			<stereo>stereo</stereo>
 		</audio>
-		<previously-shown start="20140726000000" />
+		<previously-shown start="20130514000000" />
 		<subtitles type="teletext" />
-		<rating system="Canadian Parental Rating">
+		<rating system="Australian Classification Board">
 			<value>PG</value>
 		</rating>
-		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-			<value>L</value>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
 		</rating>
 		<rating system="USA Parental Rating">
 			<value>TVPG</value>
@@ -3176,25 +3121,33 @@
 			<value>TV14</value>
 		</rating>
 	</programme>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I287.18284.schedulesdirect.org">
-		<title lang="en">Bullet Points</title>
-		<sub-title lang="en">America's First War on Communism</sub-title>
-		<desc lang="en">The Cold War turns hot when the U.S. faces two communist giants in Korea.</desc>
-		<date>20130422</date>
-		<category lang="en">War</category>
-		<category lang="en">Military</category>
-		<episode-num system="dd_progid">EP01706722.0002</episode-num>
-		<episode-num system="xmltv_ns">0.1/5.</episode-num>
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I282.16331.schedulesdirect.org">
+		<title lang="en">Lone Star Law</title>
+		<sub-title lang="en">Run and You're Done</sub-title>
+		<desc lang="en">The start of dove season in Texas; in Beaumont, road hunters get an early start on deer season during a decoy sting; lassoing a rogue gator near Texarkana; on the Gulf Coast, undersized angling means citations.</desc>
+		<credits>
+			<producer>Steven Engel</producer>
+			<producer>Lisa Lucas</producer>
+		</credits>
+		<date>20170312</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Law</category>
+		<category lang="en">Animals</category>
+		<episode-num system="dd_progid">EP02336108.0016</episode-num>
+		<episode-num system="xmltv_ns">1.2/10.</episode-num>
 		<audio>
 			<stereo>stereo</stereo>
 		</audio>
-		<previously-shown start="20130422000000" />
+		<previously-shown start="20170312000000" />
 		<subtitles type="teletext" />
 		<rating system="Canadian Parental Rating">
-			<value>PG</value>
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
 		</rating>
 		<rating system="USA Parental Rating">
-			<value>TVPG</value>
+			<value>TV14</value>
 		</rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726150000 +0000" channel="I287.18284.schedulesdirect.org">
@@ -3352,19 +3305,29 @@
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme start="20170726133000 +0000" stop="20170726140000 +0000" channel="I346.89690.schedulesdirect.org">
-		<title lang="en">Talking Business With Aaron Heslehurst</title>
-		<desc lang="en">Aaron Heslehurst brings you global business news, whether it's happening in the boardroom or at the grass roots.</desc>
-		<credits>
-			<presenter>Aaron Heslehurst</presenter>
-		</credits>
-		<category lang="en">News</category>
-		<episode-num system="dd_progid">SH02697951.0000</episode-num>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
-		<previously-shown start="20170529000000" />
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I287.18284.schedulesdirect.org">
+		<title lang="en">Inside Secret Societies</title>
+		<sub-title lang="en">The KKK</sub-title>
+		<desc lang="en">Delving into the world of the KKK, which is just a shadow of its former self, and looking at the impact the group has had on America.</desc>
+		<date>20160511</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">History</category>
+		<episode-num system="dd_progid">EP02401650.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1/5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20160511000000" />
+		<subtitles type="teletext" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K16</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726143000 +0000" channel="I346.89690.schedulesdirect.org">
 		<title lang="en">Impact</title>
@@ -3623,6 +3586,29 @@
 		</video>
 		<previously-shown start="20150601000000" />
 	</programme>
+	<programme start="20170726210000 +0000" stop="20170726213000 +0000" channel="I346.89690.schedulesdirect.org">
+		<title lang="en">BBC World News America</title>
+		<desc lang="en">In-depth reports on the major international and US news of the day.</desc>
+		<credits>
+			<presenter>Katty Kay</presenter>
+		</credits>
+		<category lang="en">News</category>
+		<episode-num system="dd_progid">SH01259306.0000</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<previously-shown start="20071001000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="UK Content Provider">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
 	<programme start="20170726130000 +0000" stop="20170726150000 +0000" channel="I355.10139.schedulesdirect.org">
 		<title lang="en">Squawk on the Street *</title>
 		<desc lang="en">"Squawk on the Street" is headquartered live on the floor of the New York Stock Exchange, where the all-important opening bell rings every day. With the exclusive Eye on the Floor wireless cameras at the NYSE, CNBC takes viewers onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, the exclusive Tick by Tick charts track the action of every trade of every stock. The show also features exclusive coverage from the floor of the CME Group in Chicago, giving viewers the treasury, currency and commodity action in real time. In addition, "Squawk on the Street" is on the air when the closing bells ring throughout Europe, which has proven to be very volatile and has a major impact on all U.S.-based markets.</desc>
@@ -3704,87 +3690,28 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20170726122500 +0000" stop="20170726141000 +0000" channel="I519.59948.schedulesdirect.org">
-		<title lang="en">Dark Water</title>
-		<desc lang="en">Dahlia (Jennifer Connelly) wants to move away from her ex-husband, Kyle (Dougray Scott), and take her daughter, Ceci (Ariel Gade), with her. Relocating to a dreary tower block, Dahlia and Ceci discover eerie, dark water leaking through the ceiling of their new apartment. Dahlia petitions the supervisor (Pete Postlethwaite) and the building's owner (John C. Reilly) to fix the leak, yet it only gets worse. Now having nightmares about the dripping, Dahlia is driven to confront the problem herself.</desc>
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I355.10139.schedulesdirect.org">
+		<title lang="en">Fast Money *</title>
+		<desc lang="en">Trading tips and investment strategies from Wall Street professionals.</desc>
 		<credits>
-			<director>Walter Salles</director>
-			<actor>Jennifer Connelly</actor>
-			<actor>John C. Reilly</actor>
-			<actor>Tim Roth</actor>
-			<actor>Dougray Scott</actor>
-			<actor>Pete Postlethwaite</actor>
-			<actor>Camryn Manheim</actor>
-			<actor>Ariel Gade</actor>
-			<actor>Perla Haney-Jardine</actor>
-			<actor>Linda Emond</actor>
-			<actor>Jennifer Baxter</actor>
-			<actor>Rafael Yglesias</actor>
-			<actor>Angelo Badalamenti</actor>
-			<actor>Affonso Beato</actor>
-			<actor>Daniel Rezende</actor>
-			<actor>Mali Finn</actor>
-			<actor>Tina Gerussi</actor>
-			<actor>Thérèse DePrez</actor>
-			<actor>Nicholas Lundy</actor>
-			<producer>Doug Davison</producer>
-			<producer>Roy Lee</producer>
-			<producer>Bill Mechanic</producer>
-			<producer>Ashley Kramer</producer>
+			<presenter>Melissa Lee</presenter>
+			<presenter>Guy Adami</presenter>
+			<presenter>Karen Finerman</presenter>
+			<presenter>Steve Grasso</presenter>
+			<presenter>Brian Kelly</presenter>
+			<presenter>Pete Najarian</presenter>
+			<presenter>Dan Nathan</presenter>
+			<presenter>Timothy Seymour</presenter>
+			<presenter>David Seaburg</presenter>
 		</credits>
-		<date>2005</date>
-		<category lang="en">Movie</category>
-		<category lang="en">Horror</category>
-		<category lang="en">Thriller</category>
-		<length units="seconds">6300</length>
-		<episode-num system="dd_progid">MV00159530.0000</episode-num>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
-		<audio>
-			<stereo>dolby digital</stereo>
-		</audio>
+		<date>20170726</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">News</category>
+		<category lang="en">Public affairs</category>
+		<category lang="en">Interview</category>
+		<episode-num system="dd_progid">EP00843728.1813</episode-num>
+		<new />
 		<subtitles type="teletext" />
-		<rating system="Alberta&apos;s Film Classification Board">
-			<value>14A</value>
-		</rating>
-		<rating system="B.C. Film Classification Office">
-			<value>14A</value>
-		</rating>
-		<rating system="British Board of Film Classification">
-			<value>15</value>
-		</rating>
-		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-			<value>12</value>
-		</rating>
-		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-			<value>16</value>
-		</rating>
-		<rating system="Manitoba Film Classification Board">
-			<value>14A</value>
-		</rating>
-		<rating system="Maritime Film Classification Board">
-			<value>14</value>
-		</rating>
-		<rating system="Motion Picture Association of America">
-			<value>PG-13</value>
-		</rating>
-		<rating system="Saskatchewan Film and Video Classification Board">
-			<value>14A</value>
-		</rating>
-		<rating system="UK Content Provider">
-			<value>15</value>
-		</rating>
-		<rating system="advisory">
-			<value>Adult Language</value>
-		</rating>
-		<rating system="advisory">
-			<value>Adult Situations</value>
-		</rating>
-		<star-rating>
-			<value>2.5/4</value>
-		</star-rating>
 	</programme>
 	<programme start="20170726141000 +0000" stop="20170726160000 +0000" channel="I519.59948.schedulesdirect.org">
 		<title lang="en">Our Brand Is Crisis</title>
@@ -4044,6 +3971,84 @@
 		</rating>
 		<star-rating>
 			<value>3/4</value>
+		</star-rating>
+	</programme>
+	<programme start="20170726210500 +0000" stop="20170726224500 +0000" channel="I519.59948.schedulesdirect.org">
+		<title lang="en">Tremors</title>
+		<desc lang="en">Repairmen Val McKee (Kevin Bacon) and Earl Bassett (Fred Ward) are tired of their dull lives in the small desert town of Perfection, Nev. But just as the two try to skip town, they happen upon a series of mysterious deaths and a concerned seismologist (Finn Carter) studying unnatural readings below the ground. With the help of an eccentric couple (Reba McEntire, Michael Gross), the group fights for survival against giant, worm-like monsters hungry for human flesh.</desc>
+		<credits>
+			<director>Ron Underwood</director>
+			<actor>Kevin Bacon</actor>
+			<actor>Fred Ward</actor>
+			<actor>Finn Carter</actor>
+			<actor>Michael Gross</actor>
+			<actor>Reba McEntire</actor>
+			<actor>Bobby Jacoby</actor>
+			<actor>Charlotte Stewart</actor>
+			<actor>Tony Genaros</actor>
+			<actor>Victor Wong</actor>
+			<actor>Reba McEntire</actor>
+			<actor>Ernest Troost</actor>
+			<actor>Robert Folk</actor>
+			<actor>Alexander Gruszynski</actor>
+			<actor>Pam Dixon</actor>
+			<actor>Ivo Cristante</actor>
+			<actor>Don Maskovich</actor>
+			<actor>Debra Combs</actor>
+			<actor>Abigail Murray</actor>
+			<actor>Mike Topoozian</actor>
+			<producer>Gale Anne Hurd</producer>
+			<producer>Brent Maddock</producer>
+			<producer>S.S. Wilson</producer>
+		</credits>
+		<date>1990</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Horror</category>
+		<length units="seconds">5760</length>
+		<episode-num system="dd_progid">MV00028428.0000</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>dolby digital</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<rating system="British Board of Film Classification">
+			<value>12A</value>
+		</rating>
+		<rating system="Conseil Supérieur de l&apos;Audiovisuel">
+			<value>-10</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>14</value>
+		</rating>
+		<rating system="Dirección General de Radio, Televisión y Cinematografía">
+			<value>B</value>
+		</rating>
+		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+			<value>16</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K16</value>
+		</rating>
+		<rating system="Motion Picture Association of America">
+			<value>PG-13</value>
+		</rating>
+		<rating system="UK Content Provider">
+			<value>15</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Language</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Situations</value>
+		</rating>
+		<rating system="advisory">
+			<value>Violence</value>
+		</rating>
+		<star-rating>
+			<value>2.5/4</value>
 		</star-rating>
 	</programme>
 	<programme start="20170726135500 +0000" stop="20170726153500 +0000" channel="I520.59961.schedulesdirect.org">
@@ -4414,30 +4419,82 @@
 			<value>2/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20170726130000 +0000" stop="20170726140000 +0000" channel="I571.61469.schedulesdirect.org">
-		<title lang="en">Female Forces</title>
-		<sub-title lang="en">Red Alert</sub-title>
-		<desc lang="en">Sgt. Betsy Brantner-Smith and Officers Julie Lardino and Tracy Nance train for hand-to-hand combat with their nightstick batons.</desc>
-		<date>20081221</date>
-		<category lang="en">Documentary</category>
-		<length units="seconds">2760</length>
-		<episode-num system="dd_progid">EP01085899.0012</episode-num>
-		<episode-num system="xmltv_ns">0.11/13.</episode-num>
+	<programme start="20170726211000 +0000" stop="20170726231500 +0000" channel="I520.59961.schedulesdirect.org">
+		<title lang="en">Dog Day Afternoon</title>
+		<desc lang="en">When inexperienced criminal Sonny Wortzik (Al Pacino) leads a bank robbery in Brooklyn, things quickly go wrong, and a hostage situation develops. As Sonny and his accomplice, Sal Naturile (John Cazale), try desperately to remain in control, a media circus develops and the FBI arrives, creating even more tension. Gradually, Sonny's surprising motivations behind the robbery are revealed, and his standoff with law enforcement moves toward its inevitable end.</desc>
+		<credits>
+			<director>Sidney Lumet</director>
+			<actor>Al Pacino</actor>
+			<actor>John Cazale</actor>
+			<actor>Charles Durning</actor>
+			<actor>Chris Sarandon</actor>
+			<actor>Sully Boyar</actor>
+			<actor>James Broderick</actor>
+			<actor>Penelope Allen</actor>
+			<actor>Carol Kane</actor>
+			<actor>Marcia Jean Kurtz</actor>
+			<actor>Amy Levitt</actor>
+			<actor>Susan Peretz</actor>
+			<actor>Frank Pierson</actor>
+			<actor>Robert Greenhut</actor>
+			<actor>Victor J. Kemper</actor>
+			<actor>Dede Allen</actor>
+			<actor>Michael Chinich</actor>
+			<actor>Don Phillips</actor>
+			<actor>Charles Bailey</actor>
+			<actor>Douglas Higgins</actor>
+			<actor>Robert Drumheller</actor>
+			<actor>Anna Hill Johnstone</actor>
+			<actor>Max Henriquez</actor>
+			<producer>Martin Bregman</producer>
+			<producer>Martin Elfand</producer>
+		</credits>
+		<date>1975</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">7800</length>
+		<episode-num system="dd_progid">MV00000960.0000</episode-num>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
 		</video>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown start="20081221000000" />
 		<subtitles type="teletext" />
-		<rating system="Canadian Parental Rating">
-			<value>PG</value>
+		<rating system="British Board of Film Classification">
+			<value>15</value>
 		</rating>
-		<rating system="USA Parental Rating">
-			<value>TVPG</value>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>14</value>
 		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>16</value>
+		</rating>
+		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+			<value>16</value>
+		</rating>
+		<rating system="Instituto de Cinematografía y de las Artes Visuales">
+			<value>18</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K16</value>
+		</rating>
+		<rating system="Motion Picture Association of America">
+			<value>R</value>
+		</rating>
+		<rating system="UK Content Provider">
+			<value>15</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Language</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Situations</value>
+		</rating>
+		<rating system="advisory">
+			<value>Violence</value>
+		</rating>
+		<star-rating>
+			<value>4/4</value>
+		</star-rating>
 	</programme>
 	<programme start="20170726140000 +0000" stop="20170726150000 +0000" channel="I571.61469.schedulesdirect.org">
 		<title lang="en">Watching the Detectives</title>
@@ -4606,6 +4663,29 @@
 			<stereo>stereo</stereo>
 		</audio>
 		<previously-shown start="20081005000000" />
+		<subtitles type="teletext" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20170726210000 +0000" stop="20170726220000 +0000" channel="I571.61469.schedulesdirect.org">
+		<title lang="en">The Interrogators</title>
+		<sub-title lang="en">Cat and Mouse</sub-title>
+		<desc lang="en">After seven years of investigation, Sgt. Mike Huffy finally has a murder suspect; Victor Regalado uses his memory of a previous shooting to break down a suspect.</desc>
+		<date>20090426</date>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">EP01137068.0004</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20090426000000" />
 		<subtitles type="teletext" />
 		<rating system="Canadian Parental Rating">
 			<value>PG</value>
